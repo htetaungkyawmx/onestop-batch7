@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="payroll-api-utils" />
+        <module name="payroll-api-application" />
+        <module name="payroll-api-transaction" />
+        <module name="payroll-api-domain" />
+        <module name="payroll-api-master" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
